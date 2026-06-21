@@ -7,7 +7,7 @@
 
 ## 📋 Project Overview
 
-This project involved conducting an in-depth analysis of [100days.co](http://100days.co) — a particularly **challenging research endeavor** given the company's near-complete absence of official public disclosures on its business details, financials, or operational structure.
+This project involved conducting an in-depth analysis of [100days.co](http://100days.co), a particularly **challenging research endeavor** given the company's near-complete absence of official public disclosures on its business details, financials, or operational structure.
 
 All information was independently sourced and pieced together from scattered resources, including:
 
@@ -39,10 +39,10 @@ Despite limited transparency, the project mapped out 100days.co's **business mod
 
 100days.co provides end-to-end brand growth services across multiple verticals:
 
-- **DTC Management** — Direct-to-consumer channel ownership and scaling
-- **Warehousing & Fulfillment** — Operational logistics integration
-- **SEO** — Search visibility and organic growth
-- **Automation & Analytics** — Data-driven decision systems
+- **DTC Management** : Direct-to-consumer channel ownership and scaling
+- **Warehousing & Fulfillment** : Operational logistics integration
+- **SEO** : Search visibility and organic growth
+- **Automation & Analytics** : Data-driven decision systems
 
 ### 🏷️ Brands Served
 
